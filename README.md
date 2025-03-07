@@ -1,1 +1,4 @@
 # -Praktikum_AI_Workflow
+Tools: Google Collab, Github
+Penjelasan:
+kode ini mencakup beberapa hal penting dimulai dari menginputkan data untuk nantinya dilakukan pengolahan data menggunakan pandas, hingga pelatihan model machine learning. setelah menginputkan kode nantinya data yang telah disajikan akan dilatih dengan model perhitungan logika serta akurasi prediksi. pada contohnya kita memasukkan dataframe untuk data penjualan, setelah itu data yang disajikan dimasukkan ke perhitungan total penjualan serta keuntungannya dengan menggunakan logika aritmatika. disamping itu data yang disajikan diolah untuk memprediksi produk baru yang mana jikalau stok < 5 berarti bernilai 1 (true) akan menghasilkan output restock barang sedangkan jika stok barang lebih dari 5 yang berarti bernilai 0 akan menghasilkan output stok masih ada.
